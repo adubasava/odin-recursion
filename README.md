@@ -1,1 +1,3 @@
-# odin-recursion
+# Odin Recursion
+
+Fibonacci and Merge Sort
